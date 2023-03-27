@@ -24,5 +24,7 @@
   <a href="https://twitter.com/justmumuio"><img src="https://img.shields.io/badge/-justmumuio-1D9BF0?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-### 🤡🤡
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+#
+<p align="center">
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
