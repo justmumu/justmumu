@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 🛠️ &nbsp;Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
