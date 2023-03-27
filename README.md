@@ -23,3 +23,6 @@
   <a href="mailto:justmumu@protonmail.comö"><img src="https://img.shields.io/badge/-justmumu@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/justmumuio"><img src="https://img.shields.io/badge/-justmumuio-1D9BF0?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
+### 🤡🤡
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
