@@ -19,7 +19,7 @@
 ### 🤝 &nbsp;Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rasitaydin/"><img src="https://img.shields.io/badge/-Ra%C5%9Fit%20Ayd%C4%B1n-0077B5?style=flat&logo=Linkedin"/></a>
-  <a href="mailto:justmumu@protonmail.comö"><img src="https://img.shields.io/badge/-justmumu@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:justmumu@protonmail.com"><img src="https://img.shields.io/badge/-justmumu@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/justmumuio"><img src="https://img.shields.io/badge/-justmumuio-1D9BF0?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
